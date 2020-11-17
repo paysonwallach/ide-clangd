@@ -94,6 +94,11 @@
       "versions": {
         "0.1.0": "provideSignatureHelp"
       }
+    },
+    "outline-view": {
+      "versions": {
+        "0.1.0": "provideOutlines"
+      }
     }
   },
   "standard-version": {
