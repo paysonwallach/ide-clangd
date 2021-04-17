@@ -36,7 +36,7 @@
     "release": "standard-version"
   },
   "dependencies": {
-    "atom-languageclient": "^1.7.0"
+    "atom-languageclient": "^1.8.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^12.1.1",
